@@ -1,4 +1,6 @@
 # Anternet Documentation
+
+[![Join the chat at https://gitter.im/Anternet/Documentation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Anternet/Documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Anternet is a project that let you comment on any place, at any time.
 You can look at it like an giant social media that's embedded anywere on the web. Anternet controled by the users, works peer-to-peer, decentrialize and open-source for everyone.
 
