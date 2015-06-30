@@ -1,8 +1,12 @@
 # Anternet Documentation
 Anternet is a project that let you comment on any place on the web, at any time.
 
-  1. Mark text and add comment: ![mark](images/mark.jpg)
-  2. See comments on paragraph: ![comments](images/comments.jpg)
+  1. Mark text and add comment:
+    
+    ![mark](images/mark.jpg)
+  2. See comments on paragraph:
+    
+    ![comments](images/comments.jpg)
 
   
 You can think about it as a giant social media that's embedded anywere on the web. Anternet controled by the users, works peer-to-peer, decentrialize and open-source for everyone.
