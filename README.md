@@ -26,13 +26,15 @@ See other comments on paragraph:
 * User can choose to turn off Anternet for some websites or specific pages.
 * Websites can add Anternet for visitors without the extension via Javascript library.
 
+
 ## Modules
 
 ### Javascript Library
   1. Turn Anternet “on” for each web page is attached (i.e. by putting script near </body>).
   2. Connect to other peers and download relevant comments.
   3. Use signaling server to find peers and followable users.
-  4. Browser Extension
+
+### Browser Extension
   5. Attach Antentent library for each web page (except disabled websites & pages).
   6. Use browser storage to store identities and comments.
   7. Connect permanently to signaling server and serve comments.
@@ -42,13 +44,10 @@ See other comments on paragraph:
 ### Signaling Server
 #### `findUsers(url)`
 Allows peers to find relevant users.
-
 #### `getPeers(url, userId)`
 Allow peers to find peers.
-
 #### `announce(url, userId)`
 Announce this peer s having comments for given `userId` and `url`.
-
 
 ## License
 
