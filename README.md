@@ -14,7 +14,7 @@ See other comments on paragraph:
 
 **Current status:** Right now we are working on this documentaion specification and creating a team.
 
-**Join us:** [E-Mail](mailto:ms@development.co.il) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Anternet/Documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
+**Join us:** [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Anternet/Documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
 ## Features
 * Select a few words of text on any website and add a comment.
