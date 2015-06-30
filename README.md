@@ -5,7 +5,7 @@ You can think about it as a giant social media that's embedded anywere on the we
 
 **Current status:** Best time to join! Right now we are working on this documentaion specification and making a team.
 
-**Join us:** [E-Mail](mailto:ms@development.co.il) | [Gitter](https://gitter.im/Anternet/Documentation)
+**Join us:** [E-Mail](mailto:ms@development.co.il) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Anternet/Documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
 ## Features
 * Select a few words of text on any website and add a comment.
