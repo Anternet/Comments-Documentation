@@ -7,7 +7,7 @@ Mark text and add comment:
 
 ![mark](images/mark.png)
 
-See other comments on paragraph:
+See other comments on the paragraph:
     
 ![comments](images/comments.png)
 
@@ -15,6 +15,8 @@ See other comments on paragraph:
 **Current status:** Right now we are working on this documentaion specification and creating a team.
 
 **Join us:** [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Anternet/Documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
+
+**Contact me:** [E-Mail](mailto:ms@development.co.il)
 
 ## Features
 * Select a few words of text on any website and add a comment.
