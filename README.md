@@ -1,6 +1,8 @@
 # Anternet Documentation
 Anternet is a project that let you comment on any place on the web, at any time.
 
+Think about it as a giant social media that's embedded anywere on the web. Anternet controlled by the users, works peer-to-peer, decentrialize and open-source for everyone.
+
 Mark text and add comment:
 
 ![mark](images/mark.png)
@@ -9,10 +11,8 @@ See other comments on paragraph:
     
 ![comments](images/comments.png)
 
-  
-You can think about it as a giant social media that's embedded anywere on the web. Anternet controled by the users, works peer-to-peer, decentrialize and open-source for everyone.
 
-**Current status:** Best time to join! Right now we are working on this documentaion specification and making a team.
+**Current status:** Right now we are working on this documentaion specification and creating a team.
 
 **Join us:** [E-Mail](mailto:ms@development.co.il) | [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Anternet/Documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
