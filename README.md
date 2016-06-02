@@ -1,5 +1,5 @@
-# Anternet Documentation
-Anternet is a project that let you comment on any place on the web, at any time.
+# Comments Documentation
+Anternet Comments is a project that let you comment on any place on the web, at any time.
 
 Think about it as a giant social media that's embedded anywere on the web. Anternet controlled by the users, works peer-to-peer, decentrialize and open-source for everyone.
 
